@@ -25,6 +25,11 @@
   "hexcasting.action.hexportation:transplace": "Transplace",
   "hexportation.page.transplace": "Will transport any and all entities standing within the source position of the conduit to the sink position of said conduit.$(br)Free if used in a spell circle, otherwise 1 shard per victim.",
 
+  "hexcasting.iota.hexportation:conduit": "Conduit",
+  "hexcasting.iota.hexportation:conduit": "a conduit",
+  "hexcasting.iota.hexportation:storageview": "Storage View",
+  "hexcasting.iota.hexportation:storageview": "a view",
+  
   "hexcasting.mishap.invalid_value.class.conduit": "a conduit",
   "hexcasting.mishap.invalid_value.class.invalid_conduit": "a valid conduit",
   "hexcasting.mishap.invalid_value.class.view": "a view",
